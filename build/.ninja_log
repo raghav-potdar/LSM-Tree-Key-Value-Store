@@ -1,0 +1,4 @@
+# ninja log v5
+1	5	0	clean	a31eedcededa8236
+1	241	1784244439479323628	CMakeFiles/lsm_kv.dir/src/main.cpp.o	e3fa159a8f7adf5c
+243	332	1784244439570275282	lsm_kv	1c98bac708f95fb1

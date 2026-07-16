@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/build",
+  "command": "/usr/bin/g++ -I/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/include -g -std=gnu++17 -o CMakeFiles/lsm_kv.dir/src/main.cpp.o -c /home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/src/main.cpp",
+  "file": "/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/src/main.cpp",
+  "output": "CMakeFiles/lsm_kv.dir/src/main.cpp.o"
+}
+]
