@@ -1,6 +1,7 @@
 #pragma once
 #include "memtable.hpp"
 #include "std_map_memtable.hpp"
+#include "skip_list_memtable.hpp"
 #include "wal.hpp"
 #include "sstable.hpp"
 #include "compaction.hpp"
