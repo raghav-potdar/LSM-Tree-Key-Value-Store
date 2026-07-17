@@ -4,5 +4,35 @@
   "command": "/usr/bin/g++ -I/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/include -g -std=gnu++17 -o CMakeFiles/lsm_kv.dir/src/main.cpp.o -c /home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/src/main.cpp",
   "file": "/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/src/main.cpp",
   "output": "CMakeFiles/lsm_kv.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/build",
+  "command": "/usr/bin/g++ -I/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/include -g -std=gnu++17 -o CMakeFiles/lsm_kv.dir/src/engine.cpp.o -c /home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/src/engine.cpp",
+  "file": "/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/src/engine.cpp",
+  "output": "CMakeFiles/lsm_kv.dir/src/engine.cpp.o"
+},
+{
+  "directory": "/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/build",
+  "command": "/usr/bin/g++ -I/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/include -g -std=gnu++17 -o CMakeFiles/lsm_kv.dir/src/wal.cpp.o -c /home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/src/wal.cpp",
+  "file": "/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/src/wal.cpp",
+  "output": "CMakeFiles/lsm_kv.dir/src/wal.cpp.o"
+},
+{
+  "directory": "/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/build",
+  "command": "/usr/bin/g++ -I/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/include -g -std=gnu++17 -o CMakeFiles/lsm_kv.dir/src/sstable.cpp.o -c /home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/src/sstable.cpp",
+  "file": "/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/src/sstable.cpp",
+  "output": "CMakeFiles/lsm_kv.dir/src/sstable.cpp.o"
+},
+{
+  "directory": "/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/build",
+  "command": "/usr/bin/g++ -I/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/include -g -std=gnu++17 -o CMakeFiles/lsm_kv.dir/src/bloom_filter.cpp.o -c /home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/src/bloom_filter.cpp",
+  "file": "/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/src/bloom_filter.cpp",
+  "output": "CMakeFiles/lsm_kv.dir/src/bloom_filter.cpp.o"
+},
+{
+  "directory": "/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/build",
+  "command": "/usr/bin/g++ -I/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/include -g -std=gnu++17 -o CMakeFiles/lsm_kv.dir/src/compaction.cpp.o -c /home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/src/compaction.cpp",
+  "file": "/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/src/compaction.cpp",
+  "output": "CMakeFiles/lsm_kv.dir/src/compaction.cpp.o"
 }
 ]
