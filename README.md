@@ -72,4 +72,4 @@ The engine's in-memory memtable can be backed by either `std::map` or a skip lis
 | Recovery/10000 | 0.613 ms (1.63k/s) | 0.640 ms (1.56k/s) |
 | Recovery/100000 | 19.6 ms (51.2/s) | 22.2 ms (45.0/s) |
 
-Measured on a 16-core 2900 MHz CPU. Numbers are close across the board, with `std::map` slightly ahead on writes and recovery, and the skip list slightly ahead on small sequential/random reads.
+Measured on a 8-core 4300 MHz CPU. Numbers are close across the board, with `std::map` slightly ahead on writes and recovery, and the skip list slightly ahead on small sequential/random reads.
