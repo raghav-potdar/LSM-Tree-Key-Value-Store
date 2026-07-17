@@ -13,7 +13,7 @@ LSMEngine::LSMEngine(std::string data_dir, size_t flush_threshold_bytes)
     fs::create_directories(data_dir_);
     levels_.resize(2); // L0, L1 for this simplified engine
 
-    memtable_ = std::make_unique<StdMapMemTable>();
+    memtable_ = std::make_unique<SkipListMemTable>();
     wal_ = std::make_unique<WriteAheadLog>(WalPath());
 
     LoadExistingSSTables(); // pick up any tables written before a restart
