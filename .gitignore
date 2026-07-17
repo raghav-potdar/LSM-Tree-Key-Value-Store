@@ -1,0 +1,47 @@
+# Compiled object files, libraries and executables
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Build directories and CMake generated files
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/compile_commands.json
+/*.cmake
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*~
+*.tmp
+
+# Logs, databases, and runtime files
+*.log
+core
+
+# macOS
+.DS_Store
+
+# Test / coverage
+coverage/
+*.gcda
+*.gcno
+
+# Misc
+tags
+TAGS
+.cache/
+
+# Optional: local user overrides
+.env
+.local

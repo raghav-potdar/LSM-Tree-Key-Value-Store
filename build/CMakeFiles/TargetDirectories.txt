@@ -1,3 +1,0 @@
-/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/build/CMakeFiles/lsm_kv.dir
-/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/build/CMakeFiles/edit_cache.dir
-/home/madmax/Documents/Projects/LSM-Tree-Key-Value-Store/build/CMakeFiles/rebuild_cache.dir

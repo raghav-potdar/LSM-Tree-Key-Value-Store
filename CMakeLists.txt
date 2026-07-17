@@ -8,6 +8,11 @@ include_directories(include)
 
 add_executable(lsm_kv
     src/main.cpp
+    src/engine.cpp
+    src/wal.cpp
+    src/sstable.cpp
+    src/bloom_filter.cpp
+    src/compaction.cpp
 )
 
 target_link_libraries(lsm_kv pthread)

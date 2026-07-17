@@ -1,9 +1,0 @@
-# ninja log v5
-1	8	0	clean	a31eedcededa8236
-4	745	1784246361341862632	CMakeFiles/lsm_kv.dir/src/main.cpp.o	e3fa159a8f7adf5c
-5	448	1784246361046868225	CMakeFiles/lsm_kv.dir/src/wal.cpp.o	8cce8a4018459d07
-5	754	1784246361350862462	CMakeFiles/lsm_kv.dir/src/compaction.cpp.o	5e805a3f03de63ef
-2767	2939	1784246363535821060	lsm_kv	3f7df543c8f3f855
-5	613	1784246361211865097	CMakeFiles/lsm_kv.dir/src/bloom_filter.cpp.o	373707a6df6d51e0
-4	2767	1784246363352824526	CMakeFiles/lsm_kv.dir/src/engine.cpp.o	710439c3ba76a374
-5	746	1784246361342862613	CMakeFiles/lsm_kv.dir/src/sstable.cpp.o	2518b714687ef1a6
